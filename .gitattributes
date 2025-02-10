@@ -1,5 +1,5 @@
-echo "*.c linguist-language=C" > .gitattributes
-echo "*.h linguist-language=C" >> .gitattributes
-echo "*.cpp linguist-language=C++" >> .gitattributes
-echo "*.hpp linguist-language=C++" >> .gitattributes
-echo "*.py linguist-language=Python" >> .gitattributes
+*.c linguist-language=C
+*.h linguist-language=C
+*.cpp linguist-language=C++
+*.hpp linguist-language=C++
+*.py linguist-language=Python
