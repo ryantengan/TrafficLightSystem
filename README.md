@@ -1,2 +1,2 @@
 # Traffic Light System
-Models a traffic light system controlled by an ESP32 which calculates speed while tracking red light violations.
+Models a traffic light system with an ESP32 that detects speed and red light violations.
